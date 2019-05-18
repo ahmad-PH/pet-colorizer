@@ -1,6 +1,10 @@
 # Pet Colorizer
 
-This application will accept an input grayscale image of a pet (it only can handle dogs and cats for now), and colorize it for you! It was created using the [fastai](https://docs.fast.ai) library, and most of its code actually comes from [Lesson 7](https://course.fast.ai/videos/?lesson=7) of the fastai course. My main contribution has been to change the model introduced in the code from being an image restorer (turning low resolution images to high resolution ones) to an image colorizer. Also, I wrote a python script that encapsulates the whole AI stuff inside and directly converts an input image file into a colorized output image file.
+This application will accept an input grayscale image of a pet (it only can handle dogs and cats for now), and colorize it for you! It was created using the [fastai](https://docs.fast.ai) library, and most of its code actually comes from [Lesson 7](https://course.fast.ai/videos/?lesson=7) of the fastai course. My main contribution has been to change the model introduced in the course from being an image restorer (turning low resolution images to high resolution ones) to an image colorizer. Also, I wrote a python script that encapsulates the whole AI stuff inside and directly converts an input image file into a colorized output image file.
+
+Here are some examples of what this application can do:
+
+![alt text](./github-images/cat1.jpeg)
 
 ## Getting Started
 
