@@ -23,7 +23,7 @@ def load_learner_wrapper(export_directory):
 
 
 def prepare_input_img(img_name):
-	path = Path('./images/train')
+	path = Path('./dummy-dataset/train')
 	shutil.rmtree(path, ignore_errors = True)
 	os.mkdir(path)
 	shutil.copy(img_name, path)
@@ -33,7 +33,7 @@ def prepare_input_img(img_name):
 	min_size = min(original_size[0], original_size[1])
 	rounded_min_size = min_size - (min_size % 10)
 
-	data = (ImageImageList.from_folder('./images')
+	data = (ImageImageList.from_folder('./dummy-dataset')
 			.split_by_folder()
 			.label_from_func(lambda x: path/x.name)
 			# .transform(size=128)
