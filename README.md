@@ -4,20 +4,20 @@ This application will accept an input grayscale image of a pet (it only can hand
 
 Here are some examples of what this application can do:
 
-![alt text](./github-images/cat1.jpeg)
-![alt text](./github-images/prediction/cat1.jpg)
+<img src="./github-images/cat1.jpeg">
+<img src="./github-images/prediction/cat1.jpg">
 <br/>
 
-![alt text](./github-images/cat11.jpg)
-![alt text](./github-images/prediction/cat11.jpg)
+<img src="./github-images/cat11.jpg" width="400px" height="400px">
+<img src="./github-images/prediction/cat11.jpg" width="400px" height="400px">
 <br/>
 
-![alt text](./github-images/dog5.jpeg)
-![alt text](./github-images/prediction/dog5.jpg)
+<img src="./github-images/dog5.jpeg">
+<img src="./github-images/prediction/dog5.jpg">
 <br/>
 
-![alt text](./github-images/dog10.jpg)
-![alt text](./github-images/prediction/dog10.jpg)
+<img src="./github-images/dog10.jpg" width="500px" height="400px">
+<img src="./github-images/prediction/dog10.jpg" width="500px" height="400px">
 <br/>
 
 ## Getting Started
