@@ -17,8 +17,8 @@ Here are some examples of what this application can do:
 <img src="./github-images/prediction/dog5.jpg">
 <br/>
 
-<img src="./github-images/dog10.jpg" width="500px" height="400px">
-<img src="./github-images/prediction/dog10.jpg" width="500px" height="400px">
+<img src="./github-images/dog10.jpg" width="400px" height="300px">
+<img src="./github-images/prediction/dog10.jpg" width="400px" height="300px">
 <br/>
 
 ## Getting Started
