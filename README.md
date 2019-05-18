@@ -25,7 +25,7 @@ Here are some examples of what this application can do:
 
 Unfortunately, I haven't had the chance to turn this project into a web application yet, due to [Now-Zeit](https://zeit.co/now) changing their API in a way that [breaks all fastai deployments](https://course.fast.ai/deployment_zeit.html), and being unable to find any other free deployment services to quickly deploy my application. But I will be working on it, and will change the repo to reflect any changes that I'm able to make.
 
-For now, if you want to try colorizing some photos yourself you have to clone the project, change directory to its root directory and then run
+For now, if you want to try colorizing some photos yourself you have to clone this project, change directory to its root directory and then run
 ```
 python colorizer.py <filename-of-grayscale-image>
 ```
