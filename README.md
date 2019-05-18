@@ -4,9 +4,9 @@ This application will accept an input grayscale image of a pet (it only can hand
 
 Here are some examples of what this application can do:
 
-<img style="float:left" src="./github-images/cat1.jpeg">
-<img style="float:left" src="./github-images/prediction/cat1.jpg">
 <p style="clear: both">
+<img src="./github-images/cat1.jpeg">
+<img src="./github-images/prediction/cat1.jpg">
 <br/>
 
 <img src="./github-images/cat11.jpg" width="400px" height="400px">
